@@ -19,13 +19,7 @@ Zapraszam do zapoznania się z rozwiązaniami i korzystania z nich w trakcie stu
 
 ---
 
-## Ostrzeżenie
-To repozytorium pozostaje w celach edukacyjnych. Upewnij się, że rozumiesz i przestrzegasz zasad uczciwości akademickiej Twojej uczelni podczas korzystania z materiałów z tego repozytorium.
-
----
-
-## Jak Korzystać
-Sklonuj repozytorium i przejrzyj rozwiązania. Śmiało dostosuj je do swojego zrozumienia i nauki. Udanej zabawy w kodowaniu!
+## Udanej zabawy w programowaniu!
 
 <br>
 <br>
@@ -53,13 +47,6 @@ Feel free to explore the solutions and leverage them for your studies!
 
 ---
 
-## Disclaimer
-This repository is left for educational purposes. Please ensure that you understand and adhere to your institution's academic integrity policy when using any materials from this repository.
 
----
-
-## How to Use
-Clone the repository and explore the solutions. Feel free to adapt them for your understanding and learning. Happy coding!
-
-
+## Happy coding!
 
